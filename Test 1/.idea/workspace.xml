@@ -4,13 +4,15 @@
     <list default="true" id="646e1397-2dd0-4e77-9f0d-bb7835870a48" name="Default" comment="" />
     <ignored path="TestJunit.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/fragment.java" changelist="646e1397-2dd0-4e77-9f0d-bb7835870a48" time="1384416726194" ignored="false" />
+    <file path="/fragment.java" changelist="646e1397-2dd0-4e77-9f0d-bb7835870a48" time="1384505041823" ignored="false" />
     <file path="/MyexampleTest.java" changelist="646e1397-2dd0-4e77-9f0d-bb7835870a48" time="1384329927737" ignored="false" />
     <file path="/Myexample.java" changelist="646e1397-2dd0-4e77-9f0d-bb7835870a48" time="1384330302153" ignored="false" />
     <file path="/Dummy.txt" changelist="646e1397-2dd0-4e77-9f0d-bb7835870a48" time="1384332493312" ignored="false" />
     <file path="$PROJECT_DIR$/src/Junit1/Before.java" changelist="646e1397-2dd0-4e77-9f0d-bb7835870a48" time="1384329963394" ignored="false" />
-    <file path="/TapeDeckTest.java" changelist="646e1397-2dd0-4e77-9f0d-bb7835870a48" time="1384417954660" ignored="false" />
-    <file path="/TapeDeck.java" changelist="646e1397-2dd0-4e77-9f0d-bb7835870a48" time="1384417624027" ignored="false" />
+    <file path="/TapeDeckTest.java" changelist="646e1397-2dd0-4e77-9f0d-bb7835870a48" time="1384502745227" ignored="false" />
+    <file path="/TapeDeck.java" changelist="646e1397-2dd0-4e77-9f0d-bb7835870a48" time="1384502547857" ignored="false" />
+    <file path="/Hobbits.java" changelist="646e1397-2dd0-4e77-9f0d-bb7835870a48" time="1384504792922" ignored="false" />
+    <file path="/HobbitsTest.java" changelist="646e1397-2dd0-4e77-9f0d-bb7835870a48" time="1384505089727" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,17 +88,15 @@
         <entry file="file://$PROJECT_DIR$/test/Junit1/MyexampleTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="23" column="28" selection-start="495" selection-end="495" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TapeDeck.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="TapeDeck.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Junit2/TapeDeck.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="59" selection-start="285" selection-end="285" vertical-scroll-proportion="0.57741934">
+            <state line="17" column="8" selection-start="319" selection-end="319" vertical-scroll-proportion="-12.28">
               <folding />
             </state>
           </provider>
@@ -105,10 +105,26 @@
       <file leaf-file-name="TapeDeckTest.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/Junit2/TapeDeckTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="52" selection-start="378" selection-end="378" vertical-scroll-proportion="-7.84">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="24" column="17" selection-start="503" selection-end="503" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Hobbits.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Junit3/Hobbits.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="31" column="21" selection-start="217" selection-end="704" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HobbitsTest.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/Junit3/HobbitsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="25" column="68" selection-start="492" selection-end="492" vertical-scroll-proportion="0.7834395">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -144,14 +160,16 @@
         <option value="$PROJECT_DIR$/src/Junit1/Before.java" />
         <option value="$PROJECT_DIR$/src/Junit1/Myexample.java" />
         <option value="$PROJECT_DIR$/test/Junit1/MyexampleTest.java" />
-        <option value="$PROJECT_DIR$/test/Junit2/TapeDeckTest.java" />
         <option value="$PROJECT_DIR$/src/Junit2/TapeDeck.java" />
+        <option value="$PROJECT_DIR$/test/Junit2/TapeDeckTest.java" />
+        <option value="$PROJECT_DIR$/src/Junit3/Hobbits.java" />
+        <option value="$PROJECT_DIR$/test/Junit3/HobbitsTest.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-29" />
-    <option name="y" value="98" />
+    <option name="x" value="-20" />
+    <option name="y" value="67" />
     <option name="width" value="1176" />
     <option name="height" value="680" />
   </component>
@@ -181,6 +199,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -245,6 +264,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="Junit3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestJunit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Test 1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="Junit2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -284,7 +321,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -302,26 +338,27 @@
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="MemberChooser.showClasses" value="true" />
     <property name="FullScreen" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="Junit3" />
       <recent name="Junit2" />
       <recent name="Junit1" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Junit1" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TapeDeckTest">
+  <component name="RunManager" selected="JUnit.HobbitsTest">
     <configuration default="false" name="Myexample" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Junit1.Myexample" />
       <option name="VM_PARAMETERS" value="" />
@@ -382,6 +419,44 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
+    <configuration default="false" name="Hobbits" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Junit3.Hobbits" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Test 1" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="HobbitsTest" type="JUnit" factoryName="JUnit" temporary="true">
+      <module name="Test 1" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="PACKAGE_NAME" value="Junit3" />
+      <option name="MAIN_CLASS_NAME" value="Junit3.HobbitsTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
@@ -394,6 +469,19 @@
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -421,19 +509,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -470,16 +545,20 @@
       <patterns />
       <method />
     </configuration>
-    <list size="3">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.Myexample" />
       <item index="1" class="java.lang.String" itemvalue="JUnit.MyexampleTest" />
       <item index="2" class="java.lang.String" itemvalue="JUnit.TapeDeckTest" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Hobbits" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.HobbitsTest" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.TapeDeckTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.MyexampleTest" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Myexample" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.HobbitsTest" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Hobbits" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.TapeDeckTest" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.MyexampleTest" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Myexample" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -514,7 +593,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-29" y="98" width="1176" height="680" extended-state="0" />
+    <frame x="-20" y="67" width="1176" height="680" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -607,6 +686,34 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Junit1/Myexample.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="29" selection-start="344" selection-end="344" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Junit1/MyexampleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="28" selection-start="495" selection-end="495" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Junit2/TapeDeck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="59" selection-start="285" selection-end="285" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Junit2/TapeDeckTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="52" selection-start="378" selection-end="378" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Junit1/Myexample.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
@@ -615,9 +722,7 @@
     <entry file="file://$PROJECT_DIR$/test/Junit1/MyexampleTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="23" column="34" selection-start="495" selection-end="495" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -648,24 +753,34 @@
     <entry file="file://$PROJECT_DIR$/test/Junit1/MyexampleTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="23" column="28" selection-start="495" selection-end="495" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/Junit2/TapeDeckTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="52" selection-start="378" selection-end="378" vertical-scroll-proportion="-7.84">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Junit2/TapeDeck.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="59" selection-start="285" selection-end="285" vertical-scroll-proportion="0.57741934">
+        <state line="17" column="8" selection-start="319" selection-end="319" vertical-scroll-proportion="-12.28">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Junit2/TapeDeckTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="17" selection-start="503" selection-end="503" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Junit3/Hobbits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="21" selection-start="217" selection-end="704" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Junit3/HobbitsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="68" selection-start="492" selection-end="492" vertical-scroll-proportion="0.7834395">
           <folding />
         </state>
       </provider>
